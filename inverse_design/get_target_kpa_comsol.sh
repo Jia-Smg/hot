@@ -1,0 +1,1 @@
+python3 get_target_kpa_comsol.py | tee log/log_get_target_kap_comsol
